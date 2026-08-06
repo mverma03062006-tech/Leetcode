@@ -86,6 +86,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0001-two-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -123,5 +124,14 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
