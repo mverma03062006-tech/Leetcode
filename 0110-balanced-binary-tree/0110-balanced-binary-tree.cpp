@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-bool preorder(TreeNode* root){
-        if(root==NULL)return true;
-        
-        if(!preorder(root->left))return false;
-        if(abs(maxDepth(root->left)-maxDepth(root->right))>1)return false ;
-         if(!preorder(root->right))return false;
-         return true;
+    int height(TreeNode* root){
+        if(!root) return 0;
+
+        int left = height(root->left);
+        if(left == -1) return -1;
+
+        int right = height(root->right);
+        if(right == -1) return -1;
+
+        if(abs(left - right) > 1)
+            return -1;
+
+        return 1 + max(left, right);
     }
-   
-     int maxDepth(TreeNode* root) {
-        if(!root)return 0;
-        return 1+max(maxDepth(root->left),maxDepth(root->right));
-    }
+
     bool isBalanced(TreeNode* root) {
-        
-        return preorder(root);
+        return height(root) != -1;
     }
 };
