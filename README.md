@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mverma03062006-tech/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mverma03062006-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ Happy Coding! 🚀
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mverma03062006-tech/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -318,4 +321,24 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mverma03062006-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
