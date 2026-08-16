@@ -154,6 +154,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -251,10 +254,12 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -286,6 +291,7 @@ Happy Coding! 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
