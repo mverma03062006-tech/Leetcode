@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
@@ -202,6 +204,7 @@ Happy Coding! 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mverma03062006-tech/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mverma03062006-tech/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -325,6 +328,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
