@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/mverma03062006-tech/Leetcode/tree/master/0130-surrounded-regions) |
+| [0217-contains-duplicate](https://github.com/mverma03062006-tech/Leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
@@ -111,6 +112,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0217-contains-duplicate](https://github.com/mverma03062006-tech/Leetcode/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -155,6 +157,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mverma03062006-tech/Leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
