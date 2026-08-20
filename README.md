@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/mverma03062006-tech/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/mverma03062006-tech/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mverma03062006-tech/Leetcode/tree/master/0383-ransom-note) |
@@ -137,6 +138,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
 | [0290-word-pattern](https://github.com/mverma03062006-tech/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/mverma03062006-tech/Leetcode/tree/master/0383-ransom-note) |
@@ -227,6 +229,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/mverma03062006-tech/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/mverma03062006-tech/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/0200-number-of-islands) |
@@ -429,4 +432,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mverma03062006-tech/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
