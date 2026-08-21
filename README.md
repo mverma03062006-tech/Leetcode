@@ -98,6 +98,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/mverma03062006-tech/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mverma03062006-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
@@ -368,11 +369,13 @@ Happy Coding! 🚀
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Union-Find
 |  |
 | ------- |
@@ -470,4 +473,16 @@ Happy Coding! 🚀
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mverma03062006-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
