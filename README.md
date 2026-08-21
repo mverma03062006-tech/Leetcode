@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0213-house-robber-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/mverma03062006-tech/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mverma03062006-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
@@ -371,6 +372,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Union-Find
 |  |
 | ------- |
@@ -467,4 +469,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mverma03062006-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
