@@ -98,6 +98,7 @@ Happy Coding! 🚀
 | [0213-house-robber-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/mverma03062006-tech/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mverma03062006-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
@@ -350,6 +352,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -410,6 +413,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mverma03062006-tech/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mverma03062006-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -490,4 +494,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
