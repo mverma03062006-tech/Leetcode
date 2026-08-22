@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
+| [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -150,6 +151,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
