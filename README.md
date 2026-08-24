@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mverma03062006-tech/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -189,6 +191,7 @@ Happy Coding! 🚀
 | ------- |
 | [0062-unique-paths](https://github.com/mverma03062006-tech/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0070-climbing-stairs) |
+| [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -498,6 +501,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mverma03062006-tech/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -514,6 +518,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
