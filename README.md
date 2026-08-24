@@ -160,6 +160,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -172,6 +173,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/mverma03062006-tech/Leetcode/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mverma03062006-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
@@ -354,6 +356,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
@@ -529,4 +532,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
