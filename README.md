@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [0713-subarray-product-less-than-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/mverma03062006-tech/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
@@ -150,6 +151,7 @@ Happy Coding! 🚀
 | [0567-permutation-in-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -415,6 +417,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mverma03062006-tech/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mverma03062006-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
