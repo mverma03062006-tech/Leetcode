@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mverma03062006-tech/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1765-map-of-highest-peak](https://github.com/mverma03062006-tech/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mverma03062006-tech/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -237,6 +238,7 @@ Happy Coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mverma03062006-tech/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -410,6 +412,7 @@ Happy Coding! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0567-permutation-in-string) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mverma03062006-tech/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mverma03062006-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mverma03062006-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
