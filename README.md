@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
@@ -406,6 +407,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -435,6 +437,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -553,10 +556,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -586,4 +591,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/mverma03062006-tech/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
