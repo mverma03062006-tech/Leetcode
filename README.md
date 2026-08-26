@@ -190,6 +190,7 @@ Happy Coding! 🚀
 | [0567-permutation-in-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mverma03062006-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
@@ -425,6 +426,7 @@ Happy Coding! 🚀
 | [0904-fruit-into-baskets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mverma03062006-tech/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mverma03062006-tech/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mverma03062006-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
