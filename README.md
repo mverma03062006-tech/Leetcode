@@ -190,6 +190,7 @@ Happy Coding! 🚀
 | [0383-ransom-note](https://github.com/mverma03062006-tech/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/mverma03062006-tech/Leetcode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -390,6 +391,7 @@ Happy Coding! 🚀
 | [0071-simplify-path](https://github.com/mverma03062006-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mverma03062006-tech/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
@@ -617,4 +619,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mverma03062006-tech/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
