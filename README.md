@@ -117,6 +117,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/mverma03062006-tech/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
@@ -238,6 +239,7 @@ Happy Coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/mverma03062006-tech/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -456,6 +458,7 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -616,6 +619,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -651,4 +655,20 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
