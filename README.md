@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -248,6 +249,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/mverma03062006-tech/Leetcode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
@@ -308,6 +310,7 @@ Happy Coding! 🚀
 | [0207-course-schedule](https://github.com/mverma03062006-tech/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mverma03062006-tech/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -625,4 +628,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
