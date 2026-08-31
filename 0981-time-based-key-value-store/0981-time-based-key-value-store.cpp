@@ -1,33 +1,54 @@
 
 class TimeMap {
 public:
-    unordered_map<string,vector<pair<int,string>>>Keystore;
+
+    struct Node {
+        string value;
+        int timestamp;
+
+        Node(string v, int t) {
+            value = v;
+            timestamp = t;
+        }
+    };
+
+    unordered_map<string, vector<Node>> mp;
+
     TimeMap() {
         
     }
-    
+
     void set(string key, string value, int timestamp) {
-        Keystore[key].push_back({timestamp,value});
+        mp[key].push_back(Node(value, timestamp));
     }
-    
+
     string get(string key, int timestamp) {
-        auto& values=Keystore[key];
-        int left=0,right=values.size()-1;
-        string res="";
-        while(left<=right){
-            int  mid=left+(right-left)/2;
-            if(values[mid].first<=timestamp){
-                res=values[mid].second;
-                left=mid+1;
+        if (mp.find(key) == mp.end()) {
+            return "";
+        }
+
+        vector<Node>& arr = mp[key];
+
+        int low = 0;
+        int high = arr.size() - 1;
+
+        string ans = "";
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid].timestamp <= timestamp) {
+                ans = arr[mid].value;
+                low = mid + 1;
             }
             else {
-                right=mid-1;
+                high = mid - 1;
             }
         }
-        return res;
+
+        return ans;
     }
 };
-
 /**
  * Your TimeMap object will be instantiated and called as such:
  * TimeMap* obj = new TimeMap();
