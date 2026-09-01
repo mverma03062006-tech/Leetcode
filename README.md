@@ -196,6 +196,7 @@ Happy Coding! 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/mverma03062006-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/mverma03062006-tech/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/mverma03062006-tech/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/mverma03062006-tech/Leetcode/tree/master/0383-ransom-note) |
@@ -261,6 +262,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/mverma03062006-tech/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mverma03062006-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/mverma03062006-tech/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0392-is-subsequence) |
@@ -672,6 +674,7 @@ Happy Coding! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/mverma03062006-tech/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
