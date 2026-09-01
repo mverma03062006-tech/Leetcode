@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mverma03062006-tech/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mverma03062006-tech/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mverma03062006-tech/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mverma03062006-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -175,6 +176,7 @@ Happy Coding! 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mverma03062006-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mverma03062006-tech/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mverma03062006-tech/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mverma03062006-tech/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
@@ -343,6 +345,7 @@ Happy Coding! 🚀
 | [1091-shortest-path-in-binary-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/mverma03062006-tech/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mverma03062006-tech/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -520,12 +523,14 @@ Happy Coding! 🚀
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/mverma03062006-tech/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2965-find-missing-and-repeated-values](https://github.com/mverma03062006-tech/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mverma03062006-tech/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mverma03062006-tech/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mverma03062006-tech/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mverma03062006-tech/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
