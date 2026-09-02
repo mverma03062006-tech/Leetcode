@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [0071-simplify-path](https://github.com/mverma03062006-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mverma03062006-tech/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/mverma03062006-tech/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/mverma03062006-tech/Leetcode/tree/master/0383-ransom-note) |
@@ -236,6 +237,7 @@ Happy Coding! 🚀
 | [0062-unique-paths](https://github.com/mverma03062006-tech/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mverma03062006-tech/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
