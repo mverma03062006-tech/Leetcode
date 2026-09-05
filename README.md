@@ -199,6 +199,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mverma03062006-tech/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/mverma03062006-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
@@ -266,6 +267,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mverma03062006-tech/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/mverma03062006-tech/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -678,6 +680,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/mverma03062006-tech/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
 ## Knapsack Problem
 |  |
