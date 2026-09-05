@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0493-reverse-pairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0493-reverse-pairs) |
@@ -278,6 +279,7 @@ Happy Coding! 🚀
 | [0213-house-robber-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0518-coin-change-ii) |
@@ -686,6 +688,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
@@ -701,6 +704,7 @@ Happy Coding! 🚀
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
