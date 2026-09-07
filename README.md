@@ -216,6 +216,7 @@ Happy Coding! 🚀
 | [0409-longest-palindrome](https://github.com/mverma03062006-tech/Leetcode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/mverma03062006-tech/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -287,6 +288,7 @@ Happy Coding! 🚀
 | [0518-coin-change-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mverma03062006-tech/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0940-distinct-subsequences-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mverma03062006-tech/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mverma03062006-tech/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
