@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0881-boats-to-save-people](https://github.com/mverma03062006-tech/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -287,6 +288,7 @@ Happy Coding! 🚀
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mverma03062006-tech/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mverma03062006-tech/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -548,6 +550,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mverma03062006-tech/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mverma03062006-tech/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -580,6 +583,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Topological Sort
 |  |
 | ------- |
@@ -705,6 +709,7 @@ Happy Coding! 🚀
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/mverma03062006-tech/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -736,4 +741,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mverma03062006-tech/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
