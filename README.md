@@ -250,6 +250,7 @@ Happy Coding! 🚀
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2578-split-with-minimum-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/mverma03062006-tech/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mverma03062006-tech/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mverma03062006-tech/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -267,6 +268,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2578-split-with-minimum-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
@@ -305,6 +307,7 @@ Happy Coding! 🚀
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2578-split-with-minimum-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mverma03062006-tech/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
