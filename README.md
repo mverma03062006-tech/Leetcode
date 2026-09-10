@@ -342,6 +342,7 @@ Happy Coding! 🚀
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mverma03062006-tech/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -403,6 +404,7 @@ Happy Coding! 🚀
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mverma03062006-tech/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -435,6 +437,7 @@ Happy Coding! 🚀
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mverma03062006-tech/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
