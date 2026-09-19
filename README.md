@@ -261,6 +261,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/mverma03062006-tech/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mverma03062006-tech/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mverma03062006-tech/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
@@ -805,4 +806,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mverma03062006-tech/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mverma03062006-tech/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
