@@ -235,6 +235,7 @@ Happy Coding! 🚀
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mverma03062006-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mverma03062006-tech/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
@@ -700,6 +701,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Timsort
 |  |
 | ------- |
