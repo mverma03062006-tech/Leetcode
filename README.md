@@ -361,6 +361,7 @@ Happy Coding! 🚀
 | [0110-balanced-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/mverma03062006-tech/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -390,6 +391,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mverma03062006-tech/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
@@ -425,6 +427,7 @@ Happy Coding! 🚀
 | [0110-balanced-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/mverma03062006-tech/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -455,6 +458,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mverma03062006-tech/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
