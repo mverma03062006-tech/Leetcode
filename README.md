@@ -202,6 +202,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0143-reorder-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mverma03062006-tech/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -481,12 +482,14 @@ Happy Coding! 🚀
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mverma03062006-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mverma03062006-tech/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/mverma03062006-tech/Leetcode/tree/master/0739-daily-temperatures) |
@@ -756,6 +759,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mverma03062006-tech/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0143-reorder-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mverma03062006-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Knapsack Problem
