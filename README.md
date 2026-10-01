@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0713-subarray-product-less-than-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/mverma03062006-tech/Leetcode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/mverma03062006-tech/Leetcode/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/mverma03062006-tech/Leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/mverma03062006-tech/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -394,6 +395,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mverma03062006-tech/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mverma03062006-tech/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mverma03062006-tech/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mverma03062006-tech/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -459,6 +461,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mverma03062006-tech/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mverma03062006-tech/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mverma03062006-tech/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mverma03062006-tech/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -519,6 +522,7 @@ Happy Coding! 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/mverma03062006-tech/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/mverma03062006-tech/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -568,6 +572,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/mverma03062006-tech/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mverma03062006-tech/Leetcode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mverma03062006-tech/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -591,6 +596,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/mverma03062006-tech/Leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/mverma03062006-tech/Leetcode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -612,6 +618,7 @@ Happy Coding! 🚀
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -778,6 +785,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mverma03062006-tech/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mverma03062006-tech/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/0912-sort-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -797,6 +805,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mverma03062006-tech/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mverma03062006-tech/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
