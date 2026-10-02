@@ -270,6 +270,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/mverma03062006-tech/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mverma03062006-tech/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0507-perfect-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/mverma03062006-tech/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/mverma03062006-tech/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
