@@ -220,6 +220,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/mverma03062006-tech/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mverma03062006-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/mverma03062006-tech/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/mverma03062006-tech/Leetcode/tree/master/0127-word-ladder) |
@@ -306,6 +307,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mverma03062006-tech/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/mverma03062006-tech/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -499,6 +501,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mverma03062006-tech/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0143-reorder-list) |
@@ -855,6 +858,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Hash Function
 |  |
