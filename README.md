@@ -236,6 +236,7 @@ Happy Coding! 🚀
 | [0409-longest-palindrome](https://github.com/mverma03062006-tech/Leetcode/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/mverma03062006-tech/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -325,6 +326,7 @@ Happy Coding! 🚀
 | [0516-longest-palindromic-subsequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mverma03062006-tech/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -342,6 +344,7 @@ Happy Coding! 🚀
 | ------- |
 | [0409-longest-palindrome](https://github.com/mverma03062006-tech/Leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/mverma03062006-tech/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -507,6 +510,7 @@ Happy Coding! 🚀
 | [0143-reorder-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mverma03062006-tech/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/mverma03062006-tech/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/mverma03062006-tech/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/mverma03062006-tech/Leetcode/tree/master/0853-car-fleet) |
@@ -859,6 +863,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Hash Function
 |  |
