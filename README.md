@@ -500,6 +500,7 @@ Happy Coding! 🚀
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0143-reorder-list) |
+| [0707-design-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -586,6 +587,7 @@ Happy Coding! 🚀
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/mverma03062006-tech/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0707-design-linked-list](https://github.com/mverma03062006-tech/Leetcode/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/mverma03062006-tech/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Union-Find
 |  |
