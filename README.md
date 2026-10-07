@@ -229,6 +229,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/mverma03062006-tech/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/mverma03062006-tech/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/mverma03062006-tech/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -411,6 +412,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/mverma03062006-tech/Leetcode/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0542-01-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/0542-01-matrix) |
@@ -824,6 +826,7 @@ Happy Coding! 🚀
 | ------- |
 | [0113-path-sum-ii](https://github.com/mverma03062006-tech/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/mverma03062006-tech/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mverma03062006-tech/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## 0-1 Knapsack
