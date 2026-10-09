@@ -248,6 +248,7 @@ Happy Coding! 🚀
 | [1021-remove-outermost-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -356,6 +357,7 @@ Happy Coding! 🚀
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mverma03062006-tech/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mverma03062006-tech/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
@@ -540,6 +542,7 @@ Happy Coding! 🚀
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -899,6 +902,7 @@ Happy Coding! 🚀
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mverma03062006-tech/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mverma03062006-tech/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Hash Function
 |  |
 | ------- |
