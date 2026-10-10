@@ -13,13 +13,9 @@ public:
             if (freq[d] == 0) continue;
 
             long long take = min(freq[d], k);
-            long long reduce = min(take, k);
-
-            // Move as many differences as possible from d to d-1
-            long long actual = min(freq[d], k);
-            freq[d] -= actual;
-            freq[d - 1] += actual;
-            k -= actual;
+            freq[d] -= take;
+            freq[d - 1] += take;
+            k -= take;
         }
 
         long long ans = 0;
