@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [1765-map-of-highest-peak](https://github.com/mverma03062006-tech/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mverma03062006-tech/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mverma03062006-tech/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -322,6 +323,7 @@ Happy Coding! 🚀
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mverma03062006-tech/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mverma03062006-tech/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -601,6 +603,7 @@ Happy Coding! 🚀
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mverma03062006-tech/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mverma03062006-tech/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mverma03062006-tech/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mverma03062006-tech/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
