@@ -266,6 +266,7 @@ Happy Coding! 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/mverma03062006-tech/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mverma03062006-tech/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mverma03062006-tech/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mverma03062006-tech/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -305,6 +306,7 @@ Happy Coding! 🚀
 | [1927-sum-game](https://github.com/mverma03062006-tech/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mverma03062006-tech/Leetcode/tree/master/2029-stone-game-ix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mverma03062006-tech/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/mverma03062006-tech/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2578-split-with-minimum-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/mverma03062006-tech/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mverma03062006-tech/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
