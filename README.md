@@ -133,6 +133,7 @@ Happy Coding! 🚀
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mverma03062006-tech/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mverma03062006-tech/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1386-cinema-seat-allocation](https://github.com/mverma03062006-tech/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mverma03062006-tech/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -464,6 +465,7 @@ Happy Coding! 🚀
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/mverma03062006-tech/Leetcode/tree/master/1765-map-of-highest-peak) |
@@ -539,6 +541,7 @@ Happy Coding! 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mverma03062006-tech/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -664,6 +667,7 @@ Happy Coding! 🚀
 | [0778-swim-in-rising-water](https://github.com/mverma03062006-tech/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mverma03062006-tech/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mverma03062006-tech/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -692,6 +696,7 @@ Happy Coding! 🚀
 | [0994-rotting-oranges](https://github.com/mverma03062006-tech/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/mverma03062006-tech/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mverma03062006-tech/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mverma03062006-tech/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mverma03062006-tech/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/mverma03062006-tech/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/mverma03062006-tech/Leetcode/tree/master/1765-map-of-highest-peak) |
